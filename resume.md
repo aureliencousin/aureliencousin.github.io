@@ -8,7 +8,8 @@
 
 ## Internships
 
-### CGI - Grenoble, FR - Software Engineer (6 months internship), 2015
+### Software Engineer (6 months internship), 2015
+#### CGI - Grenoble, FR
 
 Part of the RATP-SIELbus project (10 people), I improved the interface of the Paris city bus lines management app.
 
@@ -19,7 +20,8 @@ Part of the RATP-SIELbus project (10 people), I improved the interface of the Pa
 
 C++, ILog, Git, RationalRose
 
-### Axecibles - Lille, FR - Software Developer (3 months internship), 2013
+### Software Developer (3 months internship), 2013
+#### Axecibles - Lille, FR
 
 As a member of the development division of the web agency, I assisted the team in delivering e-commerce websites.
 
@@ -31,7 +33,8 @@ As a member of the development division of the web agency, I assisted the team i
 
 PHP 5, Prestashop 1.4, Smarty, SVN
 
-### Special Olympics - Valleyfield, QC, CA - Software Developer (3 months internship), 2012 
+### Software Developer (3 months internship), 2012
+#### Special Olympics - Valleyfield, QC, CA
 
 Special Olympics is the world's largest sports organization for children and adults with intellectual disabilities.
 The goal of this internship was to create the organization's website for the Suroît division (Québec South West) from scratch. The website features an event blog and a secure digital personal space for the trainers to track athletes performance and health data.
@@ -39,13 +42,14 @@ The goal of this internship was to create the organization's website for the Sur
 * Analyzing needs with the organization's leaders
 * Full stack development
 * Website administration
-* Teamed up with another student
+* Worked with another intern
 
 PHP 5, HTML, CSS 2.1, SVN
 
 ## Education
 
-### Grenoble Alpes Université, FR - Master's in Web Technologies, IT and Cognitive Science (IC2A-WIC), 2015
+### Master's in Web Technologies, IT and Cognitive Science (IC2A-WIC), 2015
+#### Grenoble Alpes Université, FR
 
 * Web development
 * Mobile development
@@ -57,7 +61,8 @@ PHP 5, HTML, CSS 2.1, SVN
 
 PHP, Javascript, Java, Git, Android SDK, J2EE, .Net, XML, OWL
 
-### Lille University of Science and Technology, FR - Bachelor's in Information Technology, 2013
+### Bachelor's in Information Technology, 2013
+#### Lille University of Science and Technology, FR
 
 * Object oriented design
 * Operating System programming
@@ -66,7 +71,8 @@ PHP, Javascript, Java, Git, Android SDK, J2EE, .Net, XML, OWL
 
 Java, C, MySQL 
 
-### Lille University of Science and Technology, FR - Technical degree in IT, 2012
+### Technical degree in IT, 2012
+#### Lille University of Science and Technology, FR
 
 * Algorithms
 * Relational Databases
@@ -76,7 +82,8 @@ Java, C, MySQL
 
 HTML, Java, C, J2EE, SQL, Ada, COBOL, Bash
 
-### Lycée des Flandres, FR - BAC S Sciences de l'ingénieur, 2010
+### BAC S Sciences de l'ingénieur, 2010
+#### Lycée des Flandres, FR
 
 * Common BAC courses (Maths, Physics, History, etc...)
 * Electronics, Mechanics and robots programming
