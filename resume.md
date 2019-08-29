@@ -6,6 +6,15 @@
 
 ### Spartoo.com - Grenoble, FR - Software Engineer, 2015 to 2016
 
+Spartoo.com is one of the leading online shoe selling websites in France. I worked in the IT department as a Software Engineer with 10 other people for over 1 year. One of the notable projects I've been in charge was the opening of the website to the hungarian and slovak markets.
+I also fixed bugs and implemented new features for the following fields of application:
+* Accounting (calculating sales and stocks)
+* Delivery (gathering package tracking information)
+* Fraud detection
+* Order chain issues
+
+PHP 5, MySQL, jQuery, Git, SVN, Paypal API, CM-CIC Paiement V3 API, Worldpay API
+
 ## Internships
 
 ### Software Engineer (6 months internship), 2015
